@@ -1,1 +1,13 @@
-
+*{
+    background-color: beige;
+}
+.leftbox{
+    width: 50%;
+}
+.rightbox{
+    width: 50%;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+}
